@@ -1,0 +1,48 @@
+.homepage {
+    padding: 20px;
+  }
+  
+  .homepage h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .homepage .scenario {
+    border: 1px solid #ccccccd6;
+    padding: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .homepage .scenario h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .homepage .scenario p {
+    margin: 0;
+  }
+  
+  .homepage .vehicle {
+    margin-bottom: 10px;
+  }
+  
+  .homepage .vehicle p {
+    margin: 0;
+  }
+  
+  .homepage .simulation-container {
+    position: relative;
+    width: 100%;
+    height: 400px; 
+    border: 1px solid #cccccce3;
+    margin-top: 20px;
+    overflow: hidden;
+  }
+  
+  .homepage .vehicle-icon {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #007bffe3;
+    border-radius: 50%;
+  }
